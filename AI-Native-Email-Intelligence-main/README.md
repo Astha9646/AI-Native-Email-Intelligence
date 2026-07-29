@@ -5,7 +5,7 @@
 Production-quality AI email reply platform inspired by **Hiver AI Copilot**. It ingests customer support emails, runs a multi-agent LangGraph pipeline, retrieves company knowledge, generates validated replies, and scores quality with BERTScore, embeddings, and an LLM judge — all exposed through a FastAPI backend and a polished Next.js AI Operations dashboard.
 
 **Live app:** [https://ainativeemail.vercel.app/](https://ainativeemail.vercel.app/)  
-**Repository:** [github.com/vijayshreepathak/AI-Native-Email-Intelligence](https://github.com/vijayshreepathak/AI-Native-Email-Intelligence)
+**Repository:** [github.com/vijayshreepathak/AI-Native-Email-Intelligence](https://github.com/Astha9646/AI-Native-Email-Intelligence)
 
 ---
 
